@@ -1,0 +1,11 @@
+1 - Pegar uma cadeira
+2 - Posicionar a cadeira em baixo da lâmpada queimada
+3 - Subir na cadeira
+4 - Desenroscar a lâmpada queimada
+5 - Descer da cadeira
+6 - Guardar a lâmpada queimada
+7 - Pegar a lâmpada nova
+8 - Subir na cadeira
+9 - Rosquear a lâmpada nova
+10 - Descer da cadeira
+11 - Ligar o interruptor para se certificar de que está funcionando como deveria
